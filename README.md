@@ -1,28 +1,45 @@
-# Hi there! 👋 I'm Amr Mohamed
-
 <div align="center">
-  
-### 🤖 AI & Machine Learning Engineer
-**NLP • Computer Vision • Large Language Models**
 
-<br>
+# Hey, I'm Amr Mohamed 👋
 
-*Building intelligent systems that solve real-world problems*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&width=600&height=80&lines=AI+%26+Machine+Learning+Engineer;NLP+%7C+Computer+Vision+%7C+LLMs" alt="Typing SVG" />
 
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Computer+Vision+Enthusiast;NLP+%26+LLM+Developer;AI+for+Healthcare)](https://git.io/typing-svg)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=amrmohamed2003&style=flat-square&color=6E40C9" alt="Profile Views"/>
+  <a href="https://www.linkedin.com/in/amr-mohamed-9ab096232/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/amrmohamed898">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="mailto:amrkhalafalla607@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-- 🔬 Building **intelligent systems** using cutting-edge AI technologies
-- 🧠 Exploring **LLMs**, **generative AI**, and **deep learning**
-- 🏥 Passionate about **AI for healthcare** and **assistive technologies**
-- 🌍 Believer in AI that **empowers and helps people**
+```python
+class AmrMohamed:
+    def __init__(self):
+        self.role       = "AI & Machine Learning Engineer"
+        self.location   = "Cairo, Egypt 🇪🇬"
+        self.focus      = ["LLMs", "Computer Vision", "NLP", "MLOps"]
+        self.passion    = ["AI for Healthcare", "Assistive Tech", "Generative AI"]
+        self.motto      = "Building AI that makes a difference — one model at a time."
+
+    def current_work(self):
+        return [
+            "🤖 Multi-agent AI systems with LangGraph & LangChain",
+            "🗣️  Arabic NLP & fine-tuning LLMs on dialect data",
+            "👁️  Computer Vision pipelines for real-world use cases",
+            "☁️  Cloud-native MLOps on AWS",
+        ]
+```
 
 ---
 
@@ -30,70 +47,111 @@
 
 <div align="center">
 
+### 🧪 AI / ML / DL
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 👁️ Computer Vision & NLP
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+
+### 🤖 LLMs & Agents
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-6E40C9?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+
+### 🚀 Backend & MLOps
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+### 🗃️ Data
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 What I Do
+## 🎯 What I Build
 
-**🧠 Machine Learning & Deep Learning**
+<table>
+<tr>
+<td width="50%">
+
+**🧠 Machine Learning**
 - CNNs, RNNs, Transformers & Transfer Learning
-- Supervised/Unsupervised Learning & Feature Engineering
+- Supervised / Unsupervised Learning
+- Feature Engineering & Model Optimization
 
-**🗣️ Natural Language Processing**
+</td>
+<td width="50%">
+
+**🗣️ NLP & LLMs**
 - Large Language Models & Chatbots
-- Text Classification & Sentiment Analysis
+- Arabic NLP & Multi-dialect Support
+- Prompt Engineering & Fine-tuning
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 **👁️ Computer Vision**
-- Object Detection & Face Recognition
-- OCR & Medical Imaging
+- Object Detection (YOLO, Faster R-CNN)
+- Face Recognition & OCR
+- Medical Imaging Analysis
 
-**🚀 Deployment & MLOps**
-- API Development & Docker Containerization
-- Cloud Integration & Model Optimization
+</td>
+<td width="50%">
+
+**🤖 AI Agents & MLOps**
+- Multi-agent Systems with LangGraph
+- Workflow Automation with n8n
+- API Development & Docker Deployment
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🐍 Python Focus
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python_Expert-3+_Years-success?style=for-the-badge&logo=python&logoColor=white)
-![Projects](https://img.shields.io/badge/AI_Projects-25+-blue?style=for-the-badge&logo=tensorflow&logoColor=white)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=amrmohamed2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrmohamed2003&layout=compact&theme=tokyonight&hide_border=true" />
 
-**Core Libraries:** PyTorch • TensorFlow • Scikit-learn • OpenCV • Pandas • Django • Flask
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=amrmohamed2003&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🌐 Let's Connect
+## 🏆 Highlights
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-mohamed-9ab096232/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/amrmohamed898)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](amrkhalafalla607@gmail.com)
-
-</div>
+- 🧪 **25+ AI Projects** across NLP, CV, and LLMs
+- 🗣️ Built **synthetic Arabic financial datasets** (20K samples, 11 dialects) for LLM fine-tuning
+- 🤖 Designed **multi-agent data analytics platforms** targeting e-commerce
+- 🔗 Shipped **production prompt chaining pipelines** using Claude Sonnet via Anthropic API
+- ☁️ Currently leveling up in **AWS** (Cloud Foundations → ML Foundations)
 
 ---
 
 <div align="center">
 
-*"Building AI that makes a difference — one model at a time."*
-
-<br>
-
-![Anime GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FsZmhhajRlMHdkaTZ5bXdxMnBxdjJnMm5zM2s4OG10MjV6a3BtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5dYeglPmPC5lL7xYhs/giphy.gif)
+*"Building AI that makes a difference — one model at a time."* 🚀
 
 </div>
