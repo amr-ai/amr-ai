@@ -1,19 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Amr+Mohamed;AI+%26+Data+Science+Engineer;ML+%C2%B7+DL+%C2%B7+NLP+%C2%B7+GenAI+%C2%B7+LLMs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D2FF&center=true&vCenter=true&width=900&lines=Hi+there!+%F0%9F%91%8B+I'm+Amr+Mohamed;AI+%26+Data+Science+Engineer;Specializing+in+ML+%E2%80%A2+DL+%E2%80%A2+NLP;Focusing+on+Generative+AI+%26+LLMs" alt="Typing SVG" />
 
-<br/>
-
-<a href="https://www.linkedin.com/in/amr-mohamed-9ab096232/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.kaggle.com/amrmohamed898">
-  <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=flat-square&logo=kaggle&logoColor=white"/>
-</a>
-<a href="mailto:amrkhalafalla607@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=amrmohamed2003&style=flat-square&color=A855F7"/>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00D2FF&style=flat-square" alt="Views" />
+  </p>
 
 </div>
 
@@ -21,72 +12,83 @@
 
 ## 🧠 About Me
 
-```python
-amr = {
-    "role"     : "AI & Data Science Engineer",
-    "location" : "Cairo, Egypt 🇪🇬",
-    "focus"    : ["Machine Learning", "Deep Learning", "NLP", "Generative AI", "LLMs"],
-    "building" : "Intelligent systems that solve real-world problems",
-    "learning" : "AWS ML Stack · Advanced LLM Fine-tuning · MLOps",
-    "motto"    : "One model at a time 🚀"
-}
-```
+I am an **AI & Data Science Engineer** driven by the ambition to build next-generation intelligent systems. My expertise lies in extracting value from complex data and architecting state-of-the-art models, with a heavy focus on **Large Language Models (LLMs)** and **Generative AI** ecosystems.
 
----
-
-## 🎯 Core Focus Areas
-
-| 🤖 ML & Deep Learning | 🗣️ NLP & LLMs | ✨ Generative AI |
-|---|---|---|
-| CNNs · RNNs · Transformers | Large Language Models | Prompt Engineering |
-| Transfer Learning | Arabic NLP & Dialects | Fine-tuning & RLHF |
-| Feature Engineering | Text Classification | RAG Systems |
-| Model Optimization | Chatbots & Agents | Multi-agent Pipelines |
+- 🤖 **Generative AI & LLMs:** Custom RAG systems, Prompt Engineering, Fine-tuning, and AI Agents.
+- 🗣️ **Natural Language Processing:** Advanced text understanding, semantic search, and transformers.
+- 🧠 **Deep Learning & ML:** End-to-end architecture design, computer vision, and predictive analytics.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**AI & ML**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**LLMs & Agents**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-6E40C9?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
-
-**Deployment & MLOps**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amrmohamed2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrmohamed2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=amrmohamed2003&theme=tokyonight&hide_border=true" />
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 AI & Modeling</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 GenAI & NLP Tools</h4>
+      <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Yellow?style=flat-square" />
+      <img src="https://img.shields.io/badge/LangChain-⚡-Black?style=flat-square" />
+      <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📊 Data & Vision</h4>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ MLOps & Backend</h4>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
+## 📊 Animated GitHub Insights
+
 <div align="center">
-  <i>"Building AI that makes a difference — one model at a time."</i>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D2FF&icon_color=00D2FF" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=00D2FF" height="160" alt="Top Languages"/>
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/amr-mohamed-9ab096232/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/amrmohamed898" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="mailto:amrkhalafalla607@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+</div>
+
+<br />
+
+<div align="center">
+  <sub><i>"Transforming complex algorithms into intelligent reality."</i></sub>
 </div>
